@@ -1,6 +1,0 @@
-['Madonna', 'Sabahattin Ali', '1943', '192']
-['Çalıkuşu', 'Resat Nuri Guntekin', '1921', '520']
-['Madonna1', 'Sabahattin Ali', '1943', '192']
-['Çalıkuşu1', 'Resat Nuri Guntekin', '1921', '520']
-['Madonna2', 'Sabahattin Ali', '1943', '192']
-['Çalıkuşu2', 'Resat Nuri Guntekin', '1921', '520']
